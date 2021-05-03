@@ -84,7 +84,81 @@
 		hr {
 			background-color: $color-secondary-sect-hr-border;
 		}
-	}
+    }
+    
+
+    //New 
+    .bg-tertiary {
+		color: $color-tertiary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-tertiary-sect-btn-bg;
+			color: $color-tertiary-sect-btn-text;
+		}
+    }
+    //New 
+    .bg-quaternary {
+		color: $color-quaternary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-quaternary-sect-btn-bg;
+			color: $color-quaternary-sect-btn-text;
+		}
+    }
+    
+    //New 
+    .bg-quinary {
+		color: $color-quinary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-quinary-sect-btn-bg;
+			color: $color-quinary-sect-btn-text;
+		}
+    }
+    //New 
+    .bg-senary {
+		color: $color-senary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-senary-sect-btn-bg;
+			color: $color-senary-sect-btn-text;
+		}
+    }
+    
+    //New 
+    .bg-septenary {
+		color: $color-septenary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-septenary-sect-btn-bg;
+			color: $color-septenary-sect-btn-text;
+		}
+    }
 
 
 
