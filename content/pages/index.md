@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: ter
+    background_color: tertiary
     video_embed_html: >-
       <iframe width="540" height="960"
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
