@@ -20,7 +20,7 @@ body {
 		$font-suffix: "#{$font}";
 		.style-#{$style-suffix} {
 			&.font-#{$font-suffix} {
-				font-family: $stack;
+				font-family: $stack, sans-serif;
 			}
 		}
 	}
