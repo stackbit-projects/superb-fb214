@@ -114,7 +114,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: quinary
+    background_color: quaternary
   - type: features_section
     features:
       - title: >-
