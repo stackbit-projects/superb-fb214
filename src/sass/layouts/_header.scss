@@ -63,10 +63,12 @@
 	}
 
 	.navbar__menu {
-		border-top: 1px solid $color-nav-mobile-border;
+		border-top: none; //border-top: 1px solid $color-nav-mobile-border;
 		margin-top: 1.11111rem;
 		padding-top: 1.11111rem;
-		text-align: left;
+        text-align: left;
+        font-size: 2em; //NEW
+        font-family: "Fraunces", serif; // NEW
 
 		.menu__item {
 			margin-bottom: 0.55556rem;
