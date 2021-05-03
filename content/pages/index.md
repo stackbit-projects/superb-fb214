@@ -312,10 +312,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Allons-y
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Toutes les grandes idées commencent par un petit pas en avant.
     actions:
       - label: Button
         url: /pricing
