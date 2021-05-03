@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Produits agricoles pour recettes délicieuses
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      En appliquant les bons outils et les bons conseils à chaque étape de leur
+      parcours, Aurel aide les petites entreprises à voir les choses en grand.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
