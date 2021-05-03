@@ -45,7 +45,7 @@ export default class Body extends React.Component {
                       <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
                     ) : ((style === 'classic') ? (
                       (font === 'serif') ? (
-                      <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
+                      <link href="//db.onlinewebfonts.com/c/9d4d074c9335825a23cce178ee03b498?family=P22MackinacW01-Book" rel="stylesheet" type="text/css"/> //<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
                       ) : 
                       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
                     ) : 
