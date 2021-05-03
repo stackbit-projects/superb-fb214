@@ -101,7 +101,7 @@
         "secondary_nav_title": "Société",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Notre histoire",
                 "url": "/blog/category/news",
                 "style": "link"
             },
