@@ -21,6 +21,7 @@ body {
 		.style-#{$style-suffix} {
 			&.font-#{$font-suffix} {
 				font-family: $stack;
+                font-family: 'Corben', cursive;
 			}
 		}
 	}
