@@ -65,7 +65,7 @@
         "primary_nav_title": "Produits",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Pourquoi Aurel ?",
                 "url": "/about",
                 "style": "link"
             },
