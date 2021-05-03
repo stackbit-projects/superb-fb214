@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits agricoles pour recettes savoureuses
+    title: Produits délicieux pour recettes savoureuses
     subtitle: >-
       En appliquant les bons outils et les bons conseils à chaque étape de leur
       parcours, Aurel aide les petites entreprises à voir les choses en grand.
