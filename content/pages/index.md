@@ -328,7 +328,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: quaternary
+    background_color: senary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
