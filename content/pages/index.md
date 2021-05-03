@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Matières premières pour délicieuses recettes
+    title: "Matières premières pour recettes\_délicieuses"
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
