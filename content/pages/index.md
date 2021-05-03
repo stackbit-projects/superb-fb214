@@ -19,7 +19,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: small
-    padding_bottom: large
+    padding_bottom: small
     background_color: tertiary
     video_embed_html: >-
       <iframe width="540" height="960"
