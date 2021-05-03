@@ -173,7 +173,30 @@
 	background: $color-secondary-sect-bg;
 }
 
+//new
+.bg-tertiary {
+	background: $color-tertiary-sect-bg;
+}
 
+//new
+.bg-quaternary {
+	background: $color-quaternary-sect-bg;
+}
+
+//new
+.bg-quinary {
+	background: $color-quinary-sect-bg;
+}
+
+//new
+.bg-senary {
+	background: $color-senary-sect-bg;
+}
+
+//new
+.bg-septenary {
+	background: $color-septenary-sect-bg;
+}
 
 @each $style in map-keys($theme-styles) {
 	$style-suffix: "#{$style}";
