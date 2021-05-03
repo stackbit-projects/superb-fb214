@@ -131,7 +131,7 @@
         "tertiary_nav_title": "Aide",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Contactez-nous",
                 "url": "/terms-conditions",
                 "style": "link"
             },
