@@ -21,6 +21,11 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    video_embed_html: >-
+      <iframe width="540" height="960"
+      src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
+      showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
+      allowfullscreen></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
