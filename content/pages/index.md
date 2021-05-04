@@ -100,6 +100,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    title: test
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
