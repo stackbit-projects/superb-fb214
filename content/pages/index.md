@@ -35,7 +35,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/Fichier 2.svg
       - title: lorem-ipsum
