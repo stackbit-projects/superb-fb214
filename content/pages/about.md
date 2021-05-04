@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: About Page Demo
     align: center
-    background_color: secondary
+    background_color: tertiary
   - type: features_section
     features:
       - title: Section Title One
