@@ -23,7 +23,7 @@
 	&:hover,
 	&:focus,
 	&:active {
-		opacity: .85;
+		rgba(153, 27, 27, var(--tw-bg-opacity)); //opacity: .85;
 		outline: 0;
 	}
 
