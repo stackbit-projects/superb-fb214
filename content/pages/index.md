@@ -23,7 +23,6 @@ sections:
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
