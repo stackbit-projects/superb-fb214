@@ -25,6 +25,7 @@
 	&:active {
 		opacity: .85;
 		outline: 0;
+        $color-body-text
 	}
 
 	.icon + :not(.sr-only) {
