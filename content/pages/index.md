@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Matières premières pour consommateurs e
+    title: Matières premières pour industrielsefficients
     subtitle: >-
       En appliquant les bons outils et les bons conseils à chaque étape de leur
       parcours, Aurel aide les petites entreprises à voir les choses en grand.
