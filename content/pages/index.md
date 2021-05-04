@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ingredients alimentaires pour recettes délicieuses
+    title: Ingrédients alimentaires pour recettes délicieuses
     subtitle: >-
       En appliquant les bons outils et les bons conseils à chaque étape de leur
       parcours, Aurel aide les petites entreprises à voir les choses en grand.
