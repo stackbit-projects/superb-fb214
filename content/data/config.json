@@ -47,7 +47,7 @@
             },
             {
                 "label": "/general-enquiries",
-                "url": "/pricing",
+                "url": "/general-enquiries",
                 "style": "primary"
             }
         ],
