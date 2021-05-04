@@ -25,7 +25,6 @@ sections:
   - actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: center
         content: >+
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
