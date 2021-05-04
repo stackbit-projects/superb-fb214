@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Produits savoureux pour papilles exigeantes
     subtitle: >-
-      En sélectionnant des produits d'exception propres à chaque pays, Aurel
-      aide ces partenaires à faire plaisir à leurs clients.
+      En sélectionnant des produits d'exception, Aurel aide ses partenaires à
+      faire plaisir à leurs clients.
     actions:
       - label: Découvrir la gamme
         url: /pricing
