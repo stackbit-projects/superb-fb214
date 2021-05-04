@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits agricoles d'exception pour clients exigeants
+    title: Produits d'exception pour clients exigeants
     subtitle: >-
       En appliquant les bons outils et les bons conseils à chaque étape de leur
       parcours, Aurel aide les petites entreprises à voir les choses en grand.
