@@ -38,19 +38,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: cta_section
-    title: Allons-y
-    content: |
-      Toutes les grandes idées commencent par un petit pas en avant.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: tertiary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
