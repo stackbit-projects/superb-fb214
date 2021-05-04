@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Produits savoureux pour papilles exigeantes
     subtitle: >-
-      En appliquant les bons outils et les bons conseils à chaque étape de leur
-      parcours, Aurel aide les petites entreprises à voir les choses en grand.
+      En sélectionnant des produits d'exception propres à chaque pays, Aurel
+      aide ces partenaires à faire plaisir à leurs clients.
     actions:
       - label: Découvrir la gamme
         url: /pricing
