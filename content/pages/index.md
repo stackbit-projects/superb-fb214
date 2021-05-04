@@ -37,7 +37,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/classic/icon-2.svg
+        image: images/Fichier 2.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
