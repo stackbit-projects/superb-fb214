@@ -23,7 +23,7 @@
 	&:hover,
 	&:focus,
 	&:active {
-		rgba(153, 27, 27, var(--tw-bg-opacity)); //opacity: .85;
+		background-color: rgba(153, 27, 27, var(--tw-bg-opacity)); //opacity: .85;
 		outline: 0;
 	}
 
