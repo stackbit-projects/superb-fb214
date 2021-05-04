@@ -46,7 +46,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Demande de devis gratuit",
+                "label": "Devis gratuit",
                 "url": "/pricing",
                 "style": "primary"
             }
