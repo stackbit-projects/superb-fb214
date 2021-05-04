@@ -25,10 +25,8 @@ sections:
   - actions: []
     grid_items:
       - title_align: center
-        content: >+
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+        content: |
+          Client depuis 2010
         content_align: center
         actions: []
         actions_align: left
