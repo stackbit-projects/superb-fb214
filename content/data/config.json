@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Se connecetr",
+                "label": "Se connecter",
                 "url": "/contact",
                 "style": "secondary"
             },
