@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Produits savoureux pour papilles exigeantes
-    subtitle: >-
-      En sélectionnant des produits d'exception, Aurel aide ses partenaires à
-      faire plaisir à leurs clients.
+    subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à voir les choses en mieux."
     actions:
       - label: Découvrir la gamme
         url: /pricing
