@@ -22,27 +22,6 @@ sections:
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
