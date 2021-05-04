@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ingrédients alimentaires pour clients exigeants
+    title: Produits agricoles pour clients exigeants
     subtitle: >-
       En appliquant les bons outils et les bons conseils à chaque étape de leur
       parcours, Aurel aide les petites entreprises à voir les choses en grand.
