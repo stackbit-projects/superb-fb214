@@ -46,7 +46,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Devis gratuit",
+                "label": "/general-enquiries",
                 "url": "/pricing",
                 "style": "primary"
             }
