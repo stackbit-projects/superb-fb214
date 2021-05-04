@@ -126,7 +126,7 @@
                 "type": "action"
             }
         ],
-        "has_tertiary_nav": false,
+        "has_tertiary_nav": true,
         "tertiary_nav_title": "Aide",
         "tertiary_nav_links": [
             {
