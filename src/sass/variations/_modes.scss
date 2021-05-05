@@ -234,6 +234,11 @@
 			color: $color-btn-text;
 		}
 
+        .btn--primary {
+			background-color: $color-btn-bg;
+			color: $color-btn-text;
+		}
+
 		input[type="text"],
 		input[type="password"],
 		input[type="email"],
