@@ -135,9 +135,8 @@ sections:
       ## Toucher les bonnes personnes
 
 
-      Mettez vos clients au cœur de vos opérations marketing grâce à des outils
-      conçus pour vous aider à mieux connaître votre audience et à savoir à qui
-      vous adresser.
+      Mettez vos clients au cœur de vos opérations marketing grâce à des et à
+      savoir à qui vous adresser.
     actions:
       - label: lorem-ipsum
         url: '#'
