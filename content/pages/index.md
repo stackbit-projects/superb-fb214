@@ -110,7 +110,7 @@ sections:
         image: images/about-3.jpg
       - title_align: left
         content: |
-          ## Lorem ipsum
+          ## Connectez votre compte Vimeo à Aurel
 
           Lorem ipsum dolor sit amet
         content_align: left
