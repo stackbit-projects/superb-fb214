@@ -121,7 +121,7 @@ sections:
         subtitle: ATELIER
       - title_align: left
         content: |
-          ### Connectez votre compte Vimeo à Aurel
+          ## Connectez votre compte Vimeo à Aurel
 
           Lorem ipsum dolor sit amet
         content_align: left
