@@ -301,7 +301,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - content: >
-      # Lorem ipsum
+      # Continuez d’avancer. Nous nous chargeons de tout.
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
