@@ -64,7 +64,7 @@ sections:
         image_has_padding: true
         type: grid_item
         subtitle: WEBINAIRES AUREL
-        background_color: secondary
+        background_color: teratiary
       - title_align: left
         content: >
           ## Stories in Place
