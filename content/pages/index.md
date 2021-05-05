@@ -45,7 +45,7 @@ sections:
       - title_align: center
         content: "# Découvrez en toute confiance les principes de base\n\nVous débutez\_? Notre équipe d'assistance propose une série de webinaires gratuits destinés aux nouveaux utilisateurs de\_Aurel.\n"
         content_align: center
-        background_color: secondary
+        bg_color: secondary
         actions:
           - label: S'inscrire maintenant
             url: '#'
