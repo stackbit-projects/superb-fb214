@@ -80,6 +80,24 @@ sections:
         type: grid_item
         image: images/about-2.jpg
       - title_align: left
+        content: >
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: right
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/about-3.jpg
+      - title_align: left
         content: >+
           ## Lorem ipsum
 
@@ -98,24 +116,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-5.jpg
-      - title_align: left
-        content: >
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: right
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/about-3.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
