@@ -543,6 +543,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: |
+      ![](/images/efeeea.gif)
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
