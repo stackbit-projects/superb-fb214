@@ -98,7 +98,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -106,9 +106,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *
         content_align: left
         actions: []
         actions_align: left
