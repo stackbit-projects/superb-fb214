@@ -108,7 +108,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-3.jpg
-      - title_align: center
+      - title_align: left
         content: |
           ## Lorem ipsum
 
