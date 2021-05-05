@@ -63,7 +63,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/classic/feature-2.png
-        subtitle: AUREL WEBINAIRS
       - title_align: left
         content: >+
           ## Lancez votre entreprise en ligne
