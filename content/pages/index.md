@@ -41,7 +41,7 @@ sections:
       tout cela sur une plate-forme unique.
   - actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: "## Assurez la promotion de votre entreprise\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet,\_**consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut\n"
         content_align: center
         actions:
