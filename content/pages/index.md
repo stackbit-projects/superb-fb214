@@ -521,7 +521,7 @@ sections:
     media_width: sixty
     align: center
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: senary
     background_image_opacity: 0
