@@ -39,13 +39,12 @@ sections:
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
-  - content: >+
-      ## Lorem ipsum
+  - content: >
+      ## Lancez votre entreprise en ligne
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
     actions:
       - label: Produits et Services
         url: '#'
