@@ -139,7 +139,7 @@ sections:
       Mettez vos clients au cœur de vos opérations marketing et à savoir à qui
       vous adresser.
     actions:
-      - label: lorem-ipsum
+      - label: En savoir plus sur
         url: '#'
         style: link
         has_icon: true
