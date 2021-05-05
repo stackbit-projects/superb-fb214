@@ -64,7 +64,6 @@ sections:
         type: grid_item
         image: images/classic/feature-2.png
         subtitle: fff
-        title: Découvrez en toute confiance les principes de base
       - title_align: left
         content: >+
           ## Lancez votre entreprise en ligne
