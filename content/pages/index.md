@@ -47,7 +47,7 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
     actions:
-      - label: P
+      - label: Produits
         url: '#'
         style: primary
         has_icon: false
