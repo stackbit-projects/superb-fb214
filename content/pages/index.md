@@ -35,6 +35,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    subtitle: >-
+      Regroupez les données de votre audience, vos canaux marketing et vos
+      informations de manière à pouvoir atteindre plus rapidement vos objectifs,
+      tout cela sur une plate-forme unique.
   - actions: []
     grid_items:
       - title_align: center
