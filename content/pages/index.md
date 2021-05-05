@@ -39,10 +39,13 @@ sections:
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
-  - content: |
-      ##    Lancez votre entreprise en ligne
+  - content: >
+      ## Lancez votre entreprise en ligne
 
-           Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite, créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à vous lancer.
+
+      Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
+      créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
+      vous lancer.
     actions:
       - label: Produits et Services
         url: '#'
