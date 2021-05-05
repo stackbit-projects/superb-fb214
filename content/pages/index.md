@@ -42,7 +42,7 @@ sections:
   - actions: []
     grid_items:
       - title_align: center
-        content: "# Découvrez en toute confiance les principes de base\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet,\_**consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut\n"
+        content: "**WEBINAIRES AUREL**\n\n# Découvrez en toute confiance les principes de base\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet,\_**consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut\n"
         content_align: center
         actions:
           - label: lorem-ipsum
