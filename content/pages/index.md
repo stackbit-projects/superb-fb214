@@ -87,7 +87,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: right
-        image_width: fifty
+        image_width: cover
         image_align: left
         image_has_padding: false
         type: grid_item
