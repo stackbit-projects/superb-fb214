@@ -530,7 +530,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: j
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
