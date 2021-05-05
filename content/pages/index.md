@@ -529,8 +529,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Allons-y
-    content: |
+  - content: |
       ###### Allons-y
 
       Toutes les grandes idées commencent par un petit pas en avant.
