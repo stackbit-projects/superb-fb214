@@ -533,7 +533,7 @@ sections:
     content: |
       Toutes les grandes idées commencent par un petit pas en avant.
     actions:
-      - label: lorem-ipsum
+      - label: C
         url: '#'
         style: primary
         has_icon: false
