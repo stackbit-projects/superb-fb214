@@ -43,9 +43,9 @@ sections:
       ## Lancez votre entreprise en ligne
 
 
-      **Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
+      Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
       créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
-      vous lancer.**
+      vous lancer.
     actions:
       - label: Produits et Services
         url: '#'
