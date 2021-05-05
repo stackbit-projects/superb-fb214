@@ -229,9 +229,9 @@
 			background-color: $color-hr-border;
 		}
 
-		.btn--icon {
-			background-color: none;
-			color: #45515e;
+		.btn--primary {
+			background-color: $color-btn-bg;
+			color: $color-btn-text;
 		}
 
         
