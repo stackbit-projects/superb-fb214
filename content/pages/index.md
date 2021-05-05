@@ -62,7 +62,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/about-1.jpg
+        image: images/classic/feature-2.png
       - title_align: left
         content: >+
           ## Lancez votre entreprise en ligne
