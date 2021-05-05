@@ -517,7 +517,7 @@ sections:
         no_follow: false
         type: action
     image_alt: lorem-ipsum
-    media_position: left
+    media_position: bottom
     media_width: sixty
     align: center
     padding_top: medium
