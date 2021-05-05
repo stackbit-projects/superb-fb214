@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits savoureux pour papilles exigeantes
+    title: Go organic
     subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à satisfaire davantage leurs clients."
     actions:
       - label: Découvrir la gamme
