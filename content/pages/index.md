@@ -82,6 +82,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
+        subtitle: ' SÉRIE DE FILMS'
       - title_align: left
         content: |
           ## Lorem ipsum
