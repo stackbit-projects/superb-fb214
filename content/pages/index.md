@@ -254,8 +254,7 @@ sections:
     type: hero_section
   - actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
