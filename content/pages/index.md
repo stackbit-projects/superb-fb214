@@ -48,7 +48,7 @@ sections:
         actions:
           - label: S'inscrire maintenant
             url: '#'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: right
