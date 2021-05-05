@@ -150,7 +150,7 @@ sections:
         type: action
     image_alt: lorem-ipsum
     media_position: left
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: none
     padding_bottom: medium
