@@ -62,7 +62,6 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/classic/feature-2.png
         subtitle: WEBINAIRES AUREL
       - title_align: left
         content: >+
