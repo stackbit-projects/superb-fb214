@@ -113,7 +113,7 @@ sections:
           ## Lorem ipsum
 
           Lorem ipsum dolor sit amet
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
