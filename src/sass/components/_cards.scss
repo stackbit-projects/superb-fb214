@@ -76,35 +76,6 @@
 	}
 }
 
-.card--highlight {
-	-webkit-transform: translateY(0);
-	transform: translateY(0);
-	transition: .3s ease;
-
-	&:hover {
-		-webkit-transform: translateY(-5px);
-		transform: translateY(-5px);
-	}
-}
-
-.card__media--fill {
-	height: 0;
-	padding-top: 56.25%;
-	position: relative;
-	width: 100%;
-
-	img {
-		box-sizing: border-box;
-		height: 100%;
-		left: 0;
-		object-fit: cover;
-		position: absolute;
-		top: 0;
-		width: 100%;
-	}
-}
-
-//End
 
 @include media-breakpoint-up(md) {
 	.card--horiz {
