@@ -115,7 +115,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/about-1.jpg
-    background_image: images/403b3b.gif
+    background_image: images/Brownie2.gif
   - title: Nous vous aiderons à…
     actions: []
     image_alt: lorem-ipsum
