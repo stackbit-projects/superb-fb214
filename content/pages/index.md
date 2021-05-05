@@ -47,7 +47,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: secondary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
