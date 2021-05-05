@@ -413,12 +413,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - content: >
-      # Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - content: |
+      # Constatez le résultat de vos efforts
     actions: []
     image_alt: lorem-ipsum
     media_position: top
