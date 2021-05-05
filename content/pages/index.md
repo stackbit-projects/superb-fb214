@@ -42,7 +42,7 @@ sections:
   - actions: []
     grid_items:
       - title_align: center
-        content: "# Découvrez en toute confiance les principes de base\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet,\_**consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut\n"
+        content: "# Découvrez en toute confiance les principes de base\n\nVous débutez\_? Notre équipe d'assistance propose une série de webinaires gratuits destinés aux nouveaux utilisateurs de\_Aurel.\n"
         content_align: center
         actions:
           - label: S'inscrire maintenant
