@@ -327,7 +327,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         content_align: center
         actions:
-          - label: En
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: true
