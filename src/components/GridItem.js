@@ -56,7 +56,7 @@ export default class GridItem extends React.Component {
         if (((is_card && (has_image === false)) && (image_has_padding === false))) {
              is_card_no_img_no_padding = true;
         }
-        if (((has_image === false) || (has_text === false))) {
+        if (((background_color === false) || (has_text === false))) {
              image_pos = 'top';
         }
         return (
