@@ -531,8 +531,6 @@ sections:
     type: hero_section
   - title: lorem-ipsum
     content: |
-      ## Lorem ipsum
-
       Toutes les grandes idées commencent par un petit pas en avant.
     actions: []
     actions_position: bottom
