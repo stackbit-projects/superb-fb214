@@ -63,7 +63,7 @@ sections:
     padding_top: none
     padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: septanary
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: center center
