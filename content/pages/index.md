@@ -223,11 +223,11 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      # Développez-vous avec
+      # Développez-vous avec Aurel
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Notre plate-forme marketing aide les marques telles que celles-ci à
+      concrétiser leur idée et à la développer.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
