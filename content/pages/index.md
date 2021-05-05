@@ -39,17 +39,13 @@ sections:
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
-  - content: >-
+  - content: >+
       ## Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: top
