@@ -141,7 +141,7 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: none
     padding_bottom: medium
