@@ -95,7 +95,7 @@ sections:
         subtitle: ' SÉRIE DE FILMS'
       - title_align: left
         content: |
-          ## Lorem ipsum
+          ## Tout se que devez savoir sur les plantation organiques
 
           Lorem ipsum dolor sit ame
         content_align: left
