@@ -124,6 +124,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/about-5.jpg
+        subtitle: ' INTÉGRATIONS'
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
