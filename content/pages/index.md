@@ -41,8 +41,7 @@ sections:
       tout cela sur une plate-forme unique.
   - actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
