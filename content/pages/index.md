@@ -36,6 +36,12 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
+      # Occupez-vous de tout 
+
+
+      # avec Aurel
+
+
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
