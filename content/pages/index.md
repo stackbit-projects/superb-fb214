@@ -223,7 +223,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      # Lorem ipsum
+      # Développez-vous avec
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
