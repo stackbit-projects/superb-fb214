@@ -462,7 +462,7 @@ sections:
       améliorer ainsi vos ventes.
     actions: []
     image_alt: lorem-ipsum
-    media_position: left
+    media_position: right
     media_width: sixty
     align: left
     padding_top: medium
