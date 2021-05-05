@@ -73,7 +73,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
-        background_color: tertiary
       - title_align: left
         content: |
           ## Lorem ipsum
