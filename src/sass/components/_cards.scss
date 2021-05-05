@@ -41,20 +41,6 @@
 	}
 }
 
-// New
-
-.card-secondary {
-	border: none; //border: 1px solid $color-card-border;
-	box-sizing: border-box;
-	height: 100%;
-
-
-	.flex,
-	.grid {
-		height: 100%;
-		position: relative;
-	}
-}
 
 .card--highlight {
 	-webkit-transform: translateY(0);
