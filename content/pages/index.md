@@ -433,8 +433,10 @@ sections:
       ## Lorem ipsum
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Optimisez vos opérations marketing grâce à la puissance des outils
+      d'analyse. Synchronisez les données de votre boutique pour générer des
+      segments de clients prédéfinis en fonction de leur comportement d'achat et
+      améliorer ainsi vos ventes.
     actions: []
     image_alt: lorem-ipsum
     media_position: left
