@@ -68,7 +68,6 @@ sections:
         content: >
           ## Stories in Place
 
-
           En partenariat avec Vimeo, Aurel présente une série de 7 réalisateurs
           noirs qui capturent le récit d'entreprises dirigées par des patrons
           noirs.
