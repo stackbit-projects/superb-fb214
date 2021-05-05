@@ -430,7 +430,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Connectez votre boutique afin d'accroître les ventes générées
+      ### Connectez votre boutique afin d'accroître les ventes générées
 
 
       Optimisez vos opérations marketing grâce à la puissance des outils
