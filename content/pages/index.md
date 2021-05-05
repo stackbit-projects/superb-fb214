@@ -531,7 +531,7 @@ sections:
     type: hero_section
   - actions: []
     blog_feed_cols: two
-    enable_cards: true
+    enable_cards: false
     show_recent: true
     recent_count: 4
     show_date: true
