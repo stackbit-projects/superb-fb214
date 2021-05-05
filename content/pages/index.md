@@ -507,7 +507,7 @@ sections:
       segments de clients prédéfinis en fonction de leur comportement d'achat et
       améliorer ainsi vos ventes.
     actions:
-      - label: lorem-ipsum
+      - label: Voir tous les produits d'exception
         url: '#'
         style: primary
         has_icon: false
