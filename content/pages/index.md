@@ -530,17 +530,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Des ressources qui vous donnent l'avantage
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Vous voulez devancer la concurrence\_? Nous vous proposons des conseils d'experts, des ressources opportunes et des histoires inspirantes d'entrepreneurs qui se sont posé la même question que vous\_: comment développer son entreprise.\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: top
