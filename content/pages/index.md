@@ -57,7 +57,7 @@ sections:
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: center center
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     type: cta_section
     background_image: images/about-2.jpg
 seo:
