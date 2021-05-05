@@ -72,7 +72,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Regarder maintenant
             url: '#'
             style: link
             has_icon: false
