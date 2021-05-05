@@ -115,7 +115,7 @@ sections:
           Lorem ipsum dolor sit amet
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: true
