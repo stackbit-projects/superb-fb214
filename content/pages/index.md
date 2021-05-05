@@ -529,7 +529,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: Allons-y
     content: |
       Toutes les grandes idées commencent par un petit pas en avant.
     actions:
