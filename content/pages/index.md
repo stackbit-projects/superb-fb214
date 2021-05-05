@@ -49,7 +49,7 @@ sections:
     actions:
       - label: Produits et Services
         url: '#'
-        style: primary
+        style: link
         has_icon: true
         icon: arrow-right
         icon_position: right
