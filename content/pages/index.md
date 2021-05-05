@@ -535,7 +535,7 @@ sections:
     show_recent: true
     recent_count: 4
     show_date: true
-    show_categories: false
+    show_categories: true
     show_author: false
     show_excerpt: false
     show_image: true
