@@ -36,10 +36,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      Vous voulez devancer la concurrence ? Nous vous proposons des conseils
-      d'experts, des ressources opportunes et des histoires inspirantes
-      d'entrepreneurs qui se sont posé la même question que vous : comment
-      développer son entreprise.
+      Regroupez les données de votre audience, vos canaux marketing et vos
+      informations de manière à pouvoir atteindre plus rapidement vos objectifs,
+      tout cela sur une plate-forme unique.
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
