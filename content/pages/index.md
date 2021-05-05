@@ -246,8 +246,6 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ##
-
           Lorem
         content_align: center
         actions: []
