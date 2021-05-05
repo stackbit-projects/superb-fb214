@@ -85,7 +85,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: top
+        image_position: left
         image_width: sixty
         image_align: left
         image_has_padding: false
