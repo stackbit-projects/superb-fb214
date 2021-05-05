@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits naturels pour estomacs qui compte. Strictement.
+    title: Produits 100% naturels pour estomacs qui compte.
     subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à satisfaire davantage leurs clients."
     actions:
       - label: Découvrir la gamme
