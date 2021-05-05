@@ -531,6 +531,8 @@ sections:
     type: hero_section
   - title: Allons-y
     content: |
+      ###### Allons-y
+
       Toutes les grandes idées commencent par un petit pas en avant.
     actions:
       - label: Contacter un représentant
