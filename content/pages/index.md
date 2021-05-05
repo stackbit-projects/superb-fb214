@@ -59,7 +59,7 @@ sections:
     image_alt: lorem-ipsum
     media_position: right
     media_width: fourty
-    align: left
+    align: center
     padding_top: small
     padding_bottom: small
     has_border: false
