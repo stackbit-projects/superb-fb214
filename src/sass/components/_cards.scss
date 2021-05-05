@@ -13,6 +13,40 @@
 	}
 }
 
+
+.bg-primary {
+	background: $color-primary-sect-bg;
+}
+
+.bg-secondary {
+	background: $color-secondary-sect-bg;
+}
+
+//new
+.bg-tertiary {
+	background: $color-tertiary-sect-bg;
+}
+
+//new
+.bg-quaternary {
+	background: $color-quaternary-sect-bg;
+}
+
+//new
+.bg-quinary {
+	background: $color-quinary-sect-bg;
+}
+
+//new
+.bg-senary {
+	background: $color-senary-sect-bg;
+}
+
+//new
+.bg-septenary {
+	background: $color-septenary-sect-bg;
+}
+
 .card--highlight {
 	-webkit-transform: translateY(0);
 	transform: translateY(0);
@@ -40,7 +74,6 @@
 		width: 100%;
 	}
 }
-
 
 .card--highlight {
 	-webkit-transform: translateY(0);
