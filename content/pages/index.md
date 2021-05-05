@@ -163,7 +163,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      ## Lorem ipsum
+      ## Toucher les bonnes personnes
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
