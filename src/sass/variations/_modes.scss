@@ -219,36 +219,6 @@
 		}
 	}
     
-    //NEW
-
-    .card-secondary {
-		background-color: $color-card-bg-secondary;
-		color: $color-card-text-secondary;
-
-		hr {
-			background-color: $color-hr-border;
-		}
-
-		.btn--primary {
-			//background-color: #ffe01b;
-            //border: none; 
-			//color: #fff;
-		}
-
-		input[type="text"],
-		input[type="password"],
-		input[type="email"],
-		input[type="tel"],
-		input[type="number"],
-		input[type="search"],
-		input[type="url"],
-		select,
-		textarea {
-			background-color: $color-input-bg;
-			border: 1px solid $color-input-border;
-		}
-	}
-    //END
 
 	&.style-classic {
 		.card {
