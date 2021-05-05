@@ -345,30 +345,33 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/classic/logo.svg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
+      - title_align: left
+        content: >
           ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
+        content_align: center
+        actions:
+          - label: En savoir plus
+            url: '#'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: false
         type: grid_item
+        image: images/classic/logo.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
