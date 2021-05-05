@@ -64,13 +64,12 @@ sections:
         type: grid_item
         subtitle: WEBINAIRES AUREL
       - title_align: left
-        content: >+
-          ## Lancez votre entreprise en ligne
+        content: >
+          # Stories in Place
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
         content_align: left
         actions: []
         actions_align: left
