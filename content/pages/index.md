@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits biologiques pour estomacs importants
+    title: Produits naturels sans pesticides pour
     subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à satisfaire davantage leurs clients."
     actions:
       - label: Découvrir la gamme
