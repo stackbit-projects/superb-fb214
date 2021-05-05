@@ -65,7 +65,7 @@ sections:
         subtitle: WEBINAIRES AUREL
       - title_align: left
         content: >
-          # Stories in Place
+          ## Stories in Place
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
