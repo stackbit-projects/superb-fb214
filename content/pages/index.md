@@ -71,8 +71,7 @@ sections:
     type: hero_section
     background_image: images/403b3b.gif
     image: images/about-1.jpg
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
