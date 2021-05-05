@@ -43,25 +43,6 @@ sections:
     grid_items:
       - title_align: left
         content: >+
-          ## Lancez votre entreprise en ligne
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: right
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/about-2.jpg
-      - title_align: left
-        content: >+
           ## Assurez la promotion de votre entreprise
 
 
@@ -79,6 +60,25 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-1.jpg
+      - title_align: left
+        content: >+
+          ## Lancez votre entreprise en ligne
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: right
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/about-2.jpg
       - title_align: left
         content: >+
           ## Lorem ipsum
