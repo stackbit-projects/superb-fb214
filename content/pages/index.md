@@ -131,17 +131,13 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ## Toucher les bonnes personnes
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Mettez vos clients au cœur de vos opérations marketing grâce à des outils
+      conçus pour vous aider à mieux connaître votre audience et à savoir à qui
+      vous adresser.
     actions: []
     image_alt: lorem-ipsum
     media_position: left
