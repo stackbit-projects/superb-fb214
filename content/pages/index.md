@@ -529,15 +529,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >
-      ## Connectez votre boutique afin d'accroître les ventes générées
-
-
-      Optimisez vos opérations marketing grâce à la puissance des outils
-      d'analyse. Synchronisez les données de votre boutique pour générer des
-      segments de clients prédéfinis en fonction de leur comportement d'achat et
-      améliorer ainsi vos ventes.
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: left
     media_width: sixty
