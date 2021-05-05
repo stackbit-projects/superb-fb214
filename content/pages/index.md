@@ -109,6 +109,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-3.jpg
+        subtitle: ATELIER
       - title_align: left
         content: |
           ## Connectez votre compte Vimeo à Aurel
