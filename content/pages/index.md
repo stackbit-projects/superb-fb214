@@ -116,7 +116,7 @@ sections:
     type: hero_section
     image: images/about-1.jpg
     background_image: images/403b3b.gif
-  - title: lorem-ipsum
+  - title: Nous vous aiderons à…
     subtitle: lorem-ipsum
     content: >+
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
