@@ -117,7 +117,6 @@ sections:
     image: images/about-1.jpg
     background_image: images/403b3b.gif
   - title: Nous vous aiderons à…
-    subtitle: lorem-ipsum
     content: >+
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
