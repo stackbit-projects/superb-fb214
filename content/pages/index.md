@@ -297,7 +297,7 @@ sections:
     grid_gap_horiz: small
     enable_cards: false
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: secondary
