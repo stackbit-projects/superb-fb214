@@ -40,6 +40,11 @@ sections:
       d'experts, des ressources opportunes et des histoires inspirantes
       d'entrepreneurs qui se sont posé la même question que vous : comment
       développer son entreprise.
+    content: >
+      Vous voulez devancer la concurrence ? Nous vous proposons des conseils
+      d'experts, des ressources opportunes et des histoires inspirantes
+      d'entrepreneurs qui se sont posé la même question que vous : comment
+      développer son entreprise.
   - actions: []
     grid_items:
       - title_align: center
