@@ -26,7 +26,7 @@ export default class GridItem extends React.Component {
         let is_card_has_padding = false;
         let is_card_no_padding = false;
         let is_card_no_img_no_padding = false;
-        let bg_color = _.get(section, 'background_color', null) || 'tertiary';
+        let bg_color = _.get(section, 'background_color', null) || 'none';
         if (_.get(section, 'enable_cards', null)) {
              is_card = true;
         }
