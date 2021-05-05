@@ -530,7 +530,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Des ressources qui vous donnent l'avantage
-    subtitle: lorem-ipsum
+    subtitle: v
     content: >-
       ## Lorem ipsum
 
