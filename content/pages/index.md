@@ -499,7 +499,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      # Connectez votre boutique afin d'accroître les ventes générées
+      # Jusqu'à 6x plus de commandes avec les automatisations
 
 
       Optimisez vos opérations marketing grâce à la puissance des outils
