@@ -270,7 +270,7 @@ sections:
         type: grid_item
         image: images/classic/logo.svg
         title: Tendances du marché
-      - title_align: left
+      - title_align: center
         content: |
           Lorem
         content_align: center
