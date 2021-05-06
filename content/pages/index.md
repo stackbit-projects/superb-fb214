@@ -8,7 +8,7 @@ sections:
       Aurel aide ses partenaires industriels à se démarquer grâce à la qualité
       de leurs preparations.
     actions:
-      - label: Trouver un produit
+      - label: Demander un devis
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
