@@ -15,11 +15,6 @@ sections:
     padding_top: none
     padding_bottom: small
     background_color: tertiary
-    video_embed_html: >-
-      <iframe width="540" height="960"
-      src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
-      showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
-      allowfullscreen></iframe>
     image: images/young-woman-eating-strawberry-cheesecake.jpg
   - title: Occupez-vous de tout avec Aurel
     actions: []
