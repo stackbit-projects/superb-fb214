@@ -5,7 +5,7 @@ sections:
     title: Matières premières savoureuses pour recettes irrésistibles
     subtitle: >-
       En sélectionnant des produits d'exception, exclusivement biologiques,
-      Aurel aide ses partenaires industriels à se rayonner grâce à la qualité de
+      Aurel aide ses partenaires industriels à rayonner grâce à la qualité de
       leurs produits.
     actions:
       - label: Demander un devis
