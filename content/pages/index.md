@@ -335,8 +335,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - content: |
-      # Constatez le résultat de vos efforts
+  - content: >
+      # Mais ce n'est pas tout. Nous vous aideons egalement a developper votre
+      reseaux de distribution.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
