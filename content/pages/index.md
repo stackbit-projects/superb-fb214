@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Lorem ipsum
+      ## Assurez la distribution de vos produits avec des insights
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
