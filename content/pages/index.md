@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Produits savoureux pour clients exigeants
+    title: Committed to quality every step of the way
     subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à satisfaire davantage leurs clients."
     actions:
       - label: Découvrir la gamme
