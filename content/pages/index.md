@@ -134,7 +134,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
   - content: >
-      ## Toucher les bonnes personnes
+      # Industrie alimentaire et des boissons
 
 
       Mettez vos clients au cœur de vos opérations marketing et à savoir à qui
