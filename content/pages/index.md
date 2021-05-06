@@ -162,7 +162,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      ## Obtenir un service clé en main à un juste coût
+      ## Bénéficier d'un service clé en main à un juste coût
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
