@@ -14,7 +14,8 @@
         "primary_nav_links": [
             {
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "label": "Le "
             },
             {
                 "label": "Services",
