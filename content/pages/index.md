@@ -19,9 +19,7 @@ sections:
     padding_bottom: small
     background_color: tertiary
     image: images/young-woman-eating-strawberry-cheesecake.jpg
-  - title: >-
-      Occupez-vous de vos clients. Nous nous occupons de votre performance
-      industrielle.
+  - title: Rayonner grace a vos produits avec Aurel
     actions: []
     image_alt: lorem-ipsum
     media_position: top
