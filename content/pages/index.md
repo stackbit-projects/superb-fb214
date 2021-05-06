@@ -115,7 +115,7 @@ sections:
     type: hero_section
     image: images/about-1.jpg
     background_image: images/403b3b.gif
-  - title: Nous vous aiderons à…
+  - title: Avantages
     actions: []
     image_alt: lorem-ipsum
     media_position: right
