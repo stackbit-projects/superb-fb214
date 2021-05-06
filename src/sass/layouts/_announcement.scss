@@ -45,5 +45,12 @@
 	}
 }
 
+.layout-full-width {
+	.js-announcment-close {
+		right: 1.875rem;
 
+		@include media-breakpoint-down(sm) {
+			right: 0.9375rem;
+		}
+	}
 }
