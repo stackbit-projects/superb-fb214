@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Assurez la promotion de vos produits
+      ## Obtenez l’aide d’Aurel pour la promotion de vos produits
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
