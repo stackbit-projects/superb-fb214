@@ -374,7 +374,7 @@ sections:
         image: images/classic/logo.svg
       - title_align: left
         content: >
-          ### Lorem ipsum
+          ### Posibilites de developpement
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
