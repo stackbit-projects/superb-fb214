@@ -44,11 +44,6 @@
                 "label": "Aurel Worldwide",
                 "url": "/contact",
                 "style": "secondary"
-            },
-            {
-                "label": "Contact commercial",
-                "url": "/general-enquiries",
-                "style": "primary"
             }
         ],
         "has_anncmnt": false,
