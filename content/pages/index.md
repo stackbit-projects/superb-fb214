@@ -37,7 +37,7 @@ sections:
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
-    title: Donnez vie a vos goûts avec Aurel
+    title: Donnez vie aux goûts avec Aurel
   - content: >
       ## Trouvez le produit parfait
 
