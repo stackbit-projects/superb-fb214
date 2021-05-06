@@ -240,7 +240,7 @@ sections:
     type: hero_section
   - actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: |
           Lorem
         content_align: center
