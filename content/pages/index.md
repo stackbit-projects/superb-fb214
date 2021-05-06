@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Les meilleurs matières premières pour vos produits
+    title: Les meilleurs matières premières pour vos clients
     subtitle: "En sélectionnant des produits d'exception, Aurel aide ses partenaires\_à satisfaire davantage leurs clients."
     actions:
       - label: Découvrir la gamme
