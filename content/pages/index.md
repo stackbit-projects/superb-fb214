@@ -34,9 +34,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      Regroupez les données de votre audience, vos canaux marketing et vos
-      informations de manière à pouvoir atteindre plus rapidement vos objectifs,
-      tout cela sur une plate-forme unique.
+      Trouver le produits qui vous conviens dans les delais qui vous convient, a
+      partire d'une large gamme de produits biologiques.
     title: Donnez vie a vos goûts avec Aurel
   - content: >
       ## Trouvez le produit parfait
