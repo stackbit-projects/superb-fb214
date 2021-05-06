@@ -19,7 +19,7 @@ sections:
     padding_bottom: small
     background_color: tertiary
     image: images/young-woman-eating-strawberry-cheesecake.jpg
-  - title: Rayonner grace a vos produits avec Aurel
+  - title: Rayonner avec Aurel
     actions: []
     image_alt: lorem-ipsum
     media_position: top
