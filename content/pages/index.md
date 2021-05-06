@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Developpez votre marque à l'interantional
+      ## Developpez votre marque à l'international 
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
