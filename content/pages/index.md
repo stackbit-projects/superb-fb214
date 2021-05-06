@@ -225,8 +225,8 @@ sections:
       # Développez-vous avec Aurel
 
 
-      Notre plate-forme marketing aide les marques telles que celles-ci à
-      concrétiser leur idée et à la développer.
+      Notre reseaux international aide les marques telles que celles-ci à se
+      développer leur reseaux de distribution.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
