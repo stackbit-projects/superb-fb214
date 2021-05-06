@@ -61,7 +61,7 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: secondary
+    background_color: septenary
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: center center
