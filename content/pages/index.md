@@ -5,8 +5,8 @@ sections:
     title: Matières premières savoureuses pour recettes irrésistibles
     subtitle: >-
       En sélectionnant des produits d'exception, exclusivement biologiques,
-      Aurel partout a travers le monde aide ses partenaires industriels à se
-      démarquer grâce à la qualité de leurs produits.
+      Aurel aide ses partenaires industriels à se démarquer grâce à la qualité
+      de leurs produits, partout a travers le monde.
     actions:
       - label: Trouver un produit
         url: /pricing
