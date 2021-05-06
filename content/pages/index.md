@@ -254,6 +254,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/classic/logo.svg
+        title: Evolution de la demande
       - title_align: left
         content: |
           Lorem
