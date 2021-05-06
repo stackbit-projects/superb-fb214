@@ -301,7 +301,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - content: |
-      # Et pendanet que vous avancez. Nous nous assurons vos arrières.
+      # Et pendent que vous avancez. Nous nous assurons vos arrières.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
