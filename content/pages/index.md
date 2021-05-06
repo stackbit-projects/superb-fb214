@@ -194,7 +194,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      ## Lorem ipsum
+      ## Un rayonement de votre marque en toute securité
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
