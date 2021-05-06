@@ -347,7 +347,7 @@ sections:
         image: images/classic/logo.svg
       - title_align: left
         content: >
-          ### Lorem ipsum
+          ### Tendances du marché
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
