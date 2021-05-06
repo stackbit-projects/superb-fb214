@@ -134,7 +134,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
   - content: >
-      ## Industrie alimentaire et des boissons
+      ## Denrées alimentaires et boissons
 
 
       Mettez vos clients au cœur de vos opérations marketing et à savoir à qui
