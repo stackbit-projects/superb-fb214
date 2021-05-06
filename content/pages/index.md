@@ -135,8 +135,8 @@ sections:
       ## Maintenir votre performance industrielle
 
 
-      Mettez vos clients au cœur de vos opérations marketing et à savoir à qui
-      vous adresser.
+      Recherche de prix des matieres premieres optimal et d'une qualite sans
+      reproche afin de permetre a votre outil industriel bla bla
     actions:
       - label: En savoir plus sur
         url: '#'
