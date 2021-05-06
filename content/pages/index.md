@@ -320,7 +320,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### Lorem ipsum
+          ### Evolution de la demande
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
