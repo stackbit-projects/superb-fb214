@@ -45,7 +45,7 @@ sections:
       créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
       vous lancer.
     actions:
-      - label: 'Matières premiers '
+      - label: 'Matières premier '
         url: '#'
         style: primary
         has_icon: true
