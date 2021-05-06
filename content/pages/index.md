@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Developpez votre marque
+      ## Assurez la promotion de vos produits
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
