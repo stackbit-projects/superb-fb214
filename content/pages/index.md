@@ -59,7 +59,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: small
-    padding_bottom: small
+    padding_bottom: medium
     has_border: false
     background_color: septenary
     background_image_opacity: 0
