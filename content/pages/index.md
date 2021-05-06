@@ -161,12 +161,10 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/efeeea.gif
-  - content: >
+  - content: |
       ## Bénéficier d'un service clé en main à un juste coût
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Controle qualite en laboratoire, documentation, finnanecement, logistique
     actions:
       - label: En savoir plus sur
         url: '#'
