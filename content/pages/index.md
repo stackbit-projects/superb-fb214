@@ -206,7 +206,7 @@ sections:
         type: action
     image_alt: lorem-ipsum
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
