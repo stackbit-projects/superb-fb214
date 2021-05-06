@@ -91,7 +91,7 @@ sections:
       créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
       vous lancer.
     actions:
-      - label: Services
+      - label: Services innovants
         url: '#'
         style: primary
         has_icon: true
