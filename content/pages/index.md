@@ -8,7 +8,7 @@ sections:
       Aurel aide ses partenaires industriels à satisfaire pleinement les
       attentes du marché.
     actions:
-      - label: Découvrir la gamme
+      - label: Trouver un produit
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
