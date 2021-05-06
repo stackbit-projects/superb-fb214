@@ -189,12 +189,10 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/efeeea.gif
-  - content: >
+  - content: |
       ## Assurer le rayonement de votre marque en toute securité
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Grace a nos partenerires fiables et leurs cerfiications nous ..bla bla
     actions:
       - label: En savoir plus sur
         url: '#'
