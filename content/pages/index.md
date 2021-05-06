@@ -222,7 +222,8 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      # Développez-vous avec Aurel
+      # Mais ce n'est pas tout. Nous vous aideons egalement a developper votre
+      reseaux de distribution.
 
 
       Notre reseaux international aide les marques telles que celles-ci à se
