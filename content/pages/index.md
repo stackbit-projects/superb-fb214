@@ -8,7 +8,7 @@ sections:
       compétitifs, Aurel aide ses partenaires industriels à se démarquer grâce à
       la qualité de leurs produits.
     actions:
-      - label: D
+      - label: Trouver un produit
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
