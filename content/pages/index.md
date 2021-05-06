@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Ayez l'esprit tranquile grace a notre assurence prix stable
+      ## Developpez votre marque à l'interantional
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
