@@ -37,6 +37,7 @@ sections:
       Regroupez les données de votre audience, vos canaux marketing et vos
       informations de manière à pouvoir atteindre plus rapidement vos objectifs,
       tout cela sur une plate-forme unique.
+    title: Rayonner avec Aurel
   - content: >
       ## Lancez votre entreprise en ligne
 
