@@ -255,7 +255,7 @@ sections:
         type: grid_item
         image: images/classic/logo.svg
         title: Evolution de la demande
-      - title_align: left
+      - title_align: center
         content: |
           Lorem
         content_align: center
