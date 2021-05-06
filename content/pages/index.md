@@ -105,7 +105,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: secondary
+    background_color: quaterary
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: center center
