@@ -164,7 +164,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      ## Nutrition sportive
+      ## Un service clé en main à un juste coût
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
