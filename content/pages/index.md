@@ -115,7 +115,9 @@ sections:
     type: hero_section
     image: images/about-1.jpg
     background_image: images/Brownie2.gif
-  - title: Nous vous aiderons à…
+  - title: >-
+      Nous aidons différentes industries à trouver leur niveau de performance
+      optimal
     actions: []
     image_alt: lorem-ipsum
     media_position: right
