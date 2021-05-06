@@ -84,7 +84,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ## Decouvrez notre gamme noix
+      ## Ayez l'esprit tranquile grace a notre assurence prix stable
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
