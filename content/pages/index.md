@@ -87,8 +87,9 @@ sections:
       ## Ayez l'esprit tranquile grace a notre assurence prix stable
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
+      créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
+      vous lancer.
     actions:
       - label: Services
         url: '#'
