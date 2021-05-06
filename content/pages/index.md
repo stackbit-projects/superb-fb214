@@ -45,7 +45,7 @@ sections:
       créez un site Web à l'aide d'outils marketing intégrés qui vous aideront à
       vous lancer.
     actions:
-      - label: 'Matières premières et ingredients  '
+      - label: 'Matières premières et ingrédients  '
         url: '#'
         style: primary
         has_icon: true
