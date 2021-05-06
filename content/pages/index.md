@@ -39,7 +39,7 @@ sections:
       tout cela sur une plate-forme unique.
     title: Donnez vie a vos goûts avec Aurel
   - content: >
-      ## Lancez votre entreprise en ligne
+      ## Trouvez le produit parfait
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
