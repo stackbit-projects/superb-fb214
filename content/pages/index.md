@@ -16,7 +16,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: small
     background_color: tertiary
     image: images/young-woman-eating-strawberry-cheesecake.jpg
   - actions: []
