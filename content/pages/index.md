@@ -38,7 +38,7 @@ sections:
       partire d'une large gamme de produits biologiques.
     title: Exaltez les goûts de vos clients avec Aurel
   - content: >
-      ## Trouvez le produit parfait
+      ## Decouvrez notre gamme huiles
 
 
       Offrez un domicile à votre marque avec un domaine personnalisé. Ensuite,
