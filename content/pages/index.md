@@ -15,7 +15,7 @@ sections:
     media_position: right
     media_width: fourty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: small
     background_color: tertiary
     image: images/young-woman-eating-strawberry-cheesecake.jpg
