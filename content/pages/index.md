@@ -164,7 +164,7 @@ sections:
     type: hero_section
     image: images/efeeea.gif
   - content: >
-      ## Toucher les bonnes personnes
+      ## Nutrition sportive
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
