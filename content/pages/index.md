@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       En sélectionnant des produits d'exception, exclusivement biologiques,
       Aurel aide ses partenaires industriels à satisfaire pleinement les
-      attentes du marché.
+      attentes des consommateurs.
     actions:
       - label: Trouver un produit
         url: /pricing
