@@ -36,7 +36,7 @@ sections:
     content: >
       Trouver le produits qui vous conviens dans les delais qui vous convient, a
       partire d'une large gamme de produits biologiques.
-    title: Donnez vie aux goûts de vos clients avec Aurel
+    title: Exaltez les goûts de vos clients avec Aurel
   - content: >
       ## Trouvez le produit parfait
 
