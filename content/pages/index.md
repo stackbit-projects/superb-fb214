@@ -19,6 +19,8 @@ sections:
     padding_bottom: small
     background_color: tertiary
     image: images/young-woman-eating-strawberry-cheesecake.jpg
+    content: |
+      ###### Feeding a changing world
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
