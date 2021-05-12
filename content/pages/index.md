@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Matières premières savoureuses pour recettes irrésistibles
+    title: Feeding a changing world
     subtitle: >-
       En sélectionnant des produits exclusivement biologiques et aux qualités
       nutritionnelles exceptionnelles, Aurel aide ses partenaires à rayonner
