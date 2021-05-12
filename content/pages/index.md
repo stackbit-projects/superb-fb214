@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Feeding a changing world
     actions:
       - label: Découvrir la gamme
         url: /pricing
