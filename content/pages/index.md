@@ -3,10 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Feeding a changing world
-    subtitle: >-
-      En sélectionnant des produits exclusivement biologiques et aux qualités
-      nutritionnelles exceptionnelles, Aurel aide ses partenaires à rayonner
-      grâce à la qualité de leurs produits.
     actions:
       - label: Découvrir la gamme
         url: /pricing
