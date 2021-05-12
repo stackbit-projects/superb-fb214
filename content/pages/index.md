@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Matières premières savoureuses pour recettes industrielles irrésistibles
+    title: Matières premières savoureuses pour recettes irrésistibles
     subtitle: >-
       En sélectionnant des produits exclusivement biologiques et aux qualités
       nutritionnelles exceptionnelles, Aurel aide ses partenaires industriels à
