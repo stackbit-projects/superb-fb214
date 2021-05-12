@@ -17,7 +17,7 @@ sections:
     content: |
       ###### Feeding a changing world
 
-      En selectionnat des produits de qualité 
+      Aurel accompagne les industies 
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
