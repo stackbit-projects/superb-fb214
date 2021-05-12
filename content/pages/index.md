@@ -15,7 +15,7 @@ sections:
     background_color: tertiary
     image: images/360_F_279816545_CBwhL6NvwVCGGTx8mXsC4hYqroiMTPSV.jpg
     content: |
-      ###### Nourrir un monde en changement
+      ###### Feed a changing world
 
       Aurel accompagne les industies
   - actions: []
