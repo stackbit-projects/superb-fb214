@@ -16,6 +16,8 @@ sections:
     image: images/young-woman-eating-strawberry-cheesecake.jpg
     content: |
       ###### Feeding a changing world
+
+      En selectionnat des produits de qualité 
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
