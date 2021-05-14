@@ -17,6 +17,11 @@ sections:
       ###### Act to feed the changing world
 
       Aurel accompagne les industies
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/mHIb3wkqKw4" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
