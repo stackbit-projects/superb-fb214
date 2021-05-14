@@ -13,7 +13,6 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: tertiary
-    image: images/360_F_279816545_CBwhL6NvwVCGGTx8mXsC4hYqroiMTPSV.jpg
     content: |
       ###### Act to feed the changing world
 
