@@ -7,7 +7,7 @@ sections:
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
-    media_position: right
+    media_position: top
     media_width: fourty
     align: left
     padding_top: medium
